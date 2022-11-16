@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/paint/static/css/main.5f6f9a95.css",
-    "main.js": "/paint/static/js/main.3a185c5c.js",
+    "main.css": "/paint/static/css/main.9a70c726.css",
+    "main.js": "/paint/static/js/main.6d48066b.js",
+    "static/media/eraser3.png": "/paint/static/media/eraser3.06ce199072537937b5e2.png",
+    "static/media/eraser2.png": "/paint/static/media/eraser2.f8d484b54ab2bfd510ea.png",
     "index.html": "/paint/index.html",
-    "main.5f6f9a95.css.map": "/paint/static/css/main.5f6f9a95.css.map",
-    "main.3a185c5c.js.map": "/paint/static/js/main.3a185c5c.js.map"
+    "main.9a70c726.css.map": "/paint/static/css/main.9a70c726.css.map",
+    "main.6d48066b.js.map": "/paint/static/js/main.6d48066b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f6f9a95.css",
-    "static/js/main.3a185c5c.js"
+    "static/css/main.9a70c726.css",
+    "static/js/main.6d48066b.js"
   ]
 }
