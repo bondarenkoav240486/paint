@@ -6,7 +6,6 @@
 }
 
 html{
-/*  background: #536872;*/
   background-color: #BFBFBF;
 }
 
@@ -23,7 +22,6 @@ html{
 
 header{
   background-color:#D9D9D9;
-/*  background-color:#748CB4;*/
 }
 
 .toolbar, .setting-bar{
@@ -36,16 +34,11 @@ header{
 
 .toolbar{
   background-color:#71A8AE;
-/*  background-color:#1C1D28;*/
-/*  background-color:#363941;*/
   padding: 0 28px 10px 12px;
 }
 
 .setting-bar{
   background-color:#D9D9D9;
-/*  background-color:#748CB4;*/
-/*  background-color:#57A4FF;*/
-/*  background-color:#DF5858;*/
   margin-top: 7px;
   padding: 7px 15px 7px;
   border-bottom:2px solid #71A8AE;
@@ -124,8 +117,6 @@ header{
   overflow: auto;
   display: flex;
   justify-content: center;
-/*  background-color: #536872;*/
-/*  background-color: #173B4A;*/
   margin: 20px auto 0;
   padding:10px;
 }

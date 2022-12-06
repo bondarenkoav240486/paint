@@ -6,10 +6,9 @@ export default class Eraser extends Brush {
     constructor(canvas,strokeStyle) {
         super(canvas,strokeStyle);
     }
-
     draw(x, y) {
-        this.ctx.strokeStyle = '#ffffff'
-        this.ctx.lineTo(x, y)
-        this.ctx.stroke()
+        this.ctx.strokeStyle = '#ffffff';
+        this.ctx.lineTo(x, y);
+        this.ctx.stroke();
     }
 }

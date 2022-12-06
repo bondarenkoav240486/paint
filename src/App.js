@@ -9,14 +9,14 @@ import canvasState from "./store/canvasState";
 function App() {
 
   return (
-    <div className="App">
-        <header>
-            <Toolbar/>
-            <SettingBar/>
-        </header>
-        <Canvas/>
-    </div>
-  );
+        <div className="App">
+            <header>
+                <Toolbar/>
+                <SettingBar/>
+            </header>
+            <Canvas/>
+        </div>
+    );
 }
 
 export default App;
