@@ -6,7 +6,6 @@ class ToolState {
     constructor() {
         makeAutoObservable(this)
     }
-
     setTool(tool,fillStyle) {
         this.tool = tool
     }
@@ -21,7 +20,6 @@ class ToolState {
             this.tool.lineWidth = width
         }
     }
-
 }
 
 export default new ToolState()
